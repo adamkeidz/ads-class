@@ -48,9 +48,9 @@ Each topic has its own module or directory within the repository, containing the
 To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-
+```shell
 git clone https://github.com/adamkeidz/ads-class.git
-
+```
 
 2. Navigate to the specific topic or concept you are interested in.
 
