@@ -60,3 +60,4 @@ git clone https://github.com/adamkeidz/ads-class.git
 
 Feel free to explore and experiment with the code to deepen your understanding of the covered topics.
 
+---
